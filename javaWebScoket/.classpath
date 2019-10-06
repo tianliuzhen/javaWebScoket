@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/学习资源/软件/apache-tomcat-7.0.91-windows-x64/apache-tomcat-7.0.91/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/学习资源/SSMjar包/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/学习资源/软件/apache-tomcat-7.0.91-windows-x64/apache-tomcat-7.0.91/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/学习资源/新职/住房公积金/alipay-sdk-java20171201160035.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
